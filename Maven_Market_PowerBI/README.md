@@ -2,7 +2,9 @@
 
 ## Project Showcase Video
 
-[![Project Showcase](./path/to/your/video-thumbnail.png)](https://link-to-your-video.com)
+
+https://github.com/user-attachments/assets/d9ea1c45-e719-4a8f-948c-ef1686854f71
+
 *Click the image above to watch the project demonstration.*
 
 ## Screenshots
