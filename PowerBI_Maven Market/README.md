@@ -3,7 +3,10 @@
 ## Project Showcase Video
 
 
-https://github.com/user-attachments/assets/d9ea1c45-e719-4a8f-948c-ef1686854f71
+https://github.com/user-attachments/assets/124d9d4b-9829-42c9-8647-00d5f23edab7
+
+
+
 
 *Click the image above to watch the project demonstration.*
 
@@ -11,9 +14,9 @@ https://github.com/user-attachments/assets/d9ea1c45-e719-4a8f-948c-ef1686854f71
 
 Below are some key screenshots that illustrate the interactive features of the dashboard, including drill-down functionality and dynamic filtering.
 
-![Prima Schermata](https://github.com/user-attachments/assets/9747738b-8cd5-43fe-adac-a33ae50684bd)
-![Seconda Schermata](https://github.com/user-attachments/assets/b38c96e7-f7d7-42e8-8a90-b4d55f47c027)
-![Terza Schermata](https://github.com/user-attachments/assets/91b21070-4136-47ba-869b-c6c9ded804b8)
+![Prima schermata](https://github.com/user-attachments/assets/06792041-2667-45b0-aeb4-c20568f08f19)
+![Seconda Schermata](https://github.com/user-attachments/assets/bd91c57f-8c4c-4917-88d9-8b4a0611a9fe)
+![Terza schermata](https://github.com/user-attachments/assets/83cfb784-e7dd-4369-92c9-a94238edf491)
 
 
 ## Project Description
