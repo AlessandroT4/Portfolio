@@ -12,8 +12,6 @@ https://github.com/user-attachments/assets/124d9d4b-9829-42c9-8647-00d5f23edab7
 
 ## Screenshots
 
-Below are some key screenshots that illustrate the interactive features of the dashboard, including drill-down functionality and dynamic filtering.
-
 ![Prima schermata](https://github.com/user-attachments/assets/06792041-2667-45b0-aeb4-c20568f08f19)
 ![Seconda Schermata](https://github.com/user-attachments/assets/bd91c57f-8c4c-4917-88d9-8b4a0611a9fe)
 ![Terza schermata](https://github.com/user-attachments/assets/83cfb784-e7dd-4369-92c9-a94238edf491)
